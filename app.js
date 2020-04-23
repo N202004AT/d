@@ -1,3 +1,9 @@
+alert(3+1);
+alert(4-1);
+alert(4*-2);
+alert(10/2);
+
+
 var max = 100;
 var num = 1;
 var count = 0;
